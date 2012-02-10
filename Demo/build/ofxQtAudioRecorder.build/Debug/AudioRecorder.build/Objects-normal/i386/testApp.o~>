@@ -1,0 +1,8 @@
+In file included from /Applications/openFrameworks/of_preRelease_v0070_osx/apps/ofxQtAudioRecorder/Demo/src/testApp.cpp:2:
+/Applications/openFrameworks/of_preRelease_v0070_osx/apps/ofxQtAudioRecorder/Demo/src/testApp.h:15:32: error: ofxQtAudioRecorder.h: No such file or directory
+In file included from /Applications/openFrameworks/of_preRelease_v0070_osx/apps/ofxQtAudioRecorder/Demo/src/testApp.cpp:2:
+/Applications/openFrameworks/of_preRelease_v0070_osx/apps/ofxQtAudioRecorder/Demo/src/testApp.h:50: error: 'ofxQtAudioRecorder' does not name a type
+/Applications/openFrameworks/of_preRelease_v0070_osx/apps/ofxQtAudioRecorder/Demo/src/testApp.cpp: In member function 'void testApp::startMovie()':
+/Applications/openFrameworks/of_preRelease_v0070_osx/apps/ofxQtAudioRecorder/Demo/src/testApp.cpp:124: error: 'audioRecorder' was not declared in this scope
+/Applications/openFrameworks/of_preRelease_v0070_osx/apps/ofxQtAudioRecorder/Demo/src/testApp.cpp: In member function 'void testApp::finishMovie()':
+/Applications/openFrameworks/of_preRelease_v0070_osx/apps/ofxQtAudioRecorder/Demo/src/testApp.cpp:133: error: 'audioRecorder' was not declared in this scope

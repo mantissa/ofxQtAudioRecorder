@@ -1,0 +1,219 @@
+// !$*UTF8*$!
+{
+	E4B69B4C0A3A1720003C02F2 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F59040D8140EB058004095C0 /* AudioRecorder */;
+		activeTarget = E4B69B5A0A3A1756003C02F2 /* AudioRecorder */;
+		addToTargets = (
+			E4B69B5A0A3A1756003C02F2 /* AudioRecorder */,
+		);
+		codeSenseManager = F59040EE140EB068004095C0 /* Code sense */;
+		executables = (
+			F59040D8140EB058004095C0 /* AudioRecorder */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					772,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					688,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 350535137;
+			PBXWorkspaceStateSaveDate = 350535137;
+		};
+		perUserProjectItems = {
+			F589135914E4BD2E00063C24 /* PBXTextBookmark */ = F589135914E4BD2E00063C24 /* PBXTextBookmark */;
+			F589135A14E4BD2E00063C24 /* PBXTextBookmark */ = F589135A14E4BD2E00063C24 /* PBXTextBookmark */;
+			F589135B14E4BD2E00063C24 /* PBXTextBookmark */ = F589135B14E4BD2E00063C24 /* PBXTextBookmark */;
+			F5D7F82714E4BEED00B55574 /* PBXTextBookmark */ = F5D7F82714E4BEED00B55574 /* PBXTextBookmark */;
+			F5D7F82814E4BEED00B55574 /* PBXTextBookmark */ = F5D7F82814E4BEED00B55574 /* PBXTextBookmark */;
+			F5D7F84514E4C4AC00B55574 /* PBXTextBookmark */ = F5D7F84514E4C4AC00B55574 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F59040ED140EB068004095C0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E4B69B5A0A3A1756003C02F2 /* AudioRecorder */ = {
+		activeExec = 0;
+		executables = (
+			F59040D8140EB058004095C0 /* AudioRecorder */,
+		);
+	};
+	E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 3146}}";
+			sepNavSelRange = "{475, 0}";
+			sepNavVisRange = "{0, 1342}";
+		};
+	};
+	E4B69E1F0A3A1BDC003C02F2 /* testApp.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 754}}";
+			sepNavSelRange = "{557, 0}";
+			sepNavVisRange = "{0, 1075}";
+		};
+	};
+	F58912EB14E4B57100063C24 /* ofxQtAudioRecorder.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 2470}}";
+			sepNavSelRange = "{1890, 0}";
+			sepNavVisRange = "{4812, 1257}";
+		};
+	};
+	F58912EC14E4B57100063C24 /* ofxQtAudioRecorder.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1069, 737}}";
+			sepNavSelRange = "{844, 0}";
+			sepNavVisRange = "{0, 1187}";
+		};
+	};
+	F589135914E4BD2E00063C24 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F58912EB14E4B57100063C24 /* ofxQtAudioRecorder.cpp */;
+		name = "ofxQtAudioRecorder.cpp: 60";
+		rLen = 0;
+		rLoc = 1890;
+		rType = 0;
+		vrLen = 1257;
+		vrLoc = 4812;
+	};
+	F589135A14E4BD2E00063C24 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F58912EC14E4B57100063C24 /* ofxQtAudioRecorder.h */;
+		name = "ofxQtAudioRecorder.h: 32";
+		rLen = 0;
+		rLoc = 844;
+		rType = 0;
+		vrLen = 1187;
+		vrLoc = 0;
+	};
+	F589135B14E4BD2E00063C24 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F589135C14E4BD2E00063C24 /* ofSoundStream.h */;
+		name = "ofSoundStream.h: 30";
+		rLen = 13;
+		rLoc = 993;
+		rType = 0;
+		vrLen = 1661;
+		vrLoc = 0;
+	};
+	F589135C14E4BD2E00063C24 /* ofSoundStream.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofSoundStream.h;
+		path = /Applications/openFrameworks/of_preRelease_v0070_osx/libs/openFrameworks/sound/ofSoundStream.h;
+		sourceTree = "<absolute>";
+	};
+	F59040D8140EB058004095C0 /* AudioRecorder */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AudioRecorder;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F59040ED140EB068004095C0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F59040EE140EB068004095C0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F5D7F82714E4BEED00B55574 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1F0A3A1BDC003C02F2 /* testApp.h */;
+		name = "testApp.h: 20";
+		rLen = 0;
+		rLoc = 557;
+		rType = 0;
+		vrLen = 1075;
+		vrLoc = 0;
+	};
+	F5D7F82814E4BEED00B55574 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 22";
+		rLen = 0;
+		rLoc = 475;
+		rType = 0;
+		vrLen = 1012;
+		vrLoc = 0;
+	};
+	F5D7F84514E4C4AC00B55574 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 24";
+		rLen = 0;
+		rLoc = 475;
+		rType = 0;
+		vrLen = 1342;
+		vrLoc = 0;
+	};
+}

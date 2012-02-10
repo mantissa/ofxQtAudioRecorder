@@ -1,0 +1,12 @@
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+
+ofxQtAudioRecorder
+
+Saves audio samples as QuickTime movie files for openFrameworks.cc
+
+-- Record system audio
+-- Copy samples from other QuickTime movies, manipulate & save
+
+by Jeremy Rotsztain 
+
+http://www.mantissa.ca
